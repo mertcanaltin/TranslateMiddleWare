@@ -1,4 +1,4 @@
-# AppSamuraiMiddleWare
+# Translate MiddleWare
 backend translate app
 
 In the project directory, you can run:
